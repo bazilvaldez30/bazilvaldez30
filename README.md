@@ -41,6 +41,8 @@ const me = {
   <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white'/>
   <img src='https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white'/>
   <img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Python-F24E1E?style=for-the-badge&logo=python'/>
+  
 </p>
   
   
