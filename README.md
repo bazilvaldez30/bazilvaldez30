@@ -9,7 +9,7 @@ const me = {
   location: "Marilao, Bulacan",
   hobbies: [ "Computer Games", "Riding Motorcycle", "Photography" ],
   languages: [ "en", "tl"],
-  forte: [ "React/NextJS", "ExpressJS/NodeJS" ]
+  forte: [ "React/NextJS", "ExpressJS/NodeJS", "Python/Django" ]
 }
 ```
 
